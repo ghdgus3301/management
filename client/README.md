@@ -1,5 +1,5 @@
 ## This project..
-본 프로젝트는 고객 관리 시스템 테스트 용입니다.
+본 프로젝트는 고객 관리 시스템과 게시판 실습용입니다.
 
 # Getting Started with Create React App
 
